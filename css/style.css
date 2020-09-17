@@ -1,0 +1,59 @@
+body{
+	background-color: #5CDB95;
+	}
+h1{
+	color: #EDF5E1;
+}
+p{
+	color: #05386B;
+}
+a{
+	color: #379683;
+}
+
+img.melon{
+	float: left;
+}
+
+.melon {
+  margin-right: 15px;
+  border: 2px solid black;
+}
+
+img.uilenhof{
+	float: left;
+}
+
+.uilenhof {
+  margin-right: 15px;
+  border: 2px solid black;
+}
+
+img.softwaredeveloper{
+	float: left;
+}
+
+.softwaredeveloper {
+  margin-right: 15px;
+  border: 2px solid black;
+}
+
+img.ah{
+	float: left;
+}
+
+.ah {
+  margin-right: 15px;
+  border: 2px solid black;
+  width: 600px;
+}
+
+img.vis{
+	float: left;
+}
+
+.vis{
+  margin-right: 15px;
+  border: 2px solid black;
+  width: 400px;
+}
