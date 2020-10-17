@@ -11,49 +11,34 @@ a{
 	color: #379683;
 }
 
-img.melon{
-	float: left;
-}
-
 .melon {
+  float: left;
   margin-right: 15px;
   border: 2px solid black;
-}
-
-img.uilenhof{
-	float: left;
 }
 
 .uilenhof {
   margin-right: 15px;
   border: 2px solid black;
-}
-
-img.softwaredeveloper{
-	float: left;
+  float: left;
 }
 
 .softwaredeveloper {
   margin-right: 15px;
   border: 2px solid black;
-}
-
-img.ah{
-	float: left;
+  float: left;
 }
 
 .ah {
   margin-right: 15px;
   border: 2px solid black;
   width: 600px;
-}
-
-img.vis{
-	float: left;
+  float: left;
 }
 
 .vis{
   margin-right: 15px;
   border: 2px solid black;
   width: 400px;
+  float: left;
 }
